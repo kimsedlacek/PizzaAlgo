@@ -1,3 +1,7 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
 3. Call Kinnelon Pizza
+4. Place order
+4a. Give credit card number
+4b. Give address
+5. Wait for deliver
